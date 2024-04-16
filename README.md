@@ -57,6 +57,25 @@ Compose 2-5 metrics to determine the success of the project. These should be mea
 
 2. User Feedback of Code Analysis: Measure the extensions ability to accurately provide helpful insights and explanations for a wide variety of code snippets. After each use case, the user will be prompted to enter feedback on the effectiveness of the code summary a scale of 1-5 (A = 5, B = 4, C = 3, D = 2, F = 1).
 
+## Project Installation & Usage
+To install the project, follow the steps below:
+1. On your local terminal, enter "git clone https://github.com/intro-gen-ai/CodeX.git" to clone the project to your local environment
+2. Open the project on your favorite IDE (Or just use the cd command)
+3. Enter "npm install" to install the necessary dependencies for this project
+4. Enter "yarn build" to built the project, you should be able to see a new folder within the directory called "dist"
+5. Now, open Google Chrome and navigate to the Extensions tab on the top right of your browser and click "Manage Extensions"
+6. Click "Load Unpacked" on the top left corner of Google Chrome
+7. Find the project on your local computer and select the "dist" directory within the project
+8. The Chrome extension is now ready for you to use!
+
+To use the Chrome extension, follow the steps below:
+1. Click the Extensions tab on the top right of your browser and click the "CodeTracer" icon
+2. To verify that it works, close the popup and repeat step 1 again, you should see a Chrome side panel popping up
+3. Enter your OpenAI API key and click "Submit"
+4. Highlight any piece of code you see while on Chrome, right click on the highlighted code
+5. Under the drop-down menu, click "Generate code description"
+6. The description for your code should appear on the Chrome Side panel to your right
+
 ## Self-Evaluation
 **Due April 26, 11:59pm**
 
