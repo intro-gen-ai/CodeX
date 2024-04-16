@@ -1,0 +1,22 @@
+{
+  "name": "CodeTracer",
+  "description": "highlight your code, we will do the explaining.",
+  "version": "3.0",
+  "manifest_version": 3,
+  "icons": {
+    "48": "images/48.png",
+    "72": "images/72.png",
+    "96": "images/96.png",
+    "144": "images/144.png",
+    "500": "images/500.png"
+  },
+  "action": {
+    "default_title": "Generate description",
+    "default_popup": "index.html"
+  },
+  "permissions": ["contextMenus", "tabs", "storage", "sidePanel", "activeTab"],
+  "host_permissions": ["https://*/*"],
+  "side_panel": {
+    "default_path": "./index.html"
+  }
+}
