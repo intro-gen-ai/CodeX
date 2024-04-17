@@ -90,6 +90,12 @@ Address each of the goals, and assess each of the metrics. Include a statement o
 
 What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
 
+This project was very eye-opening for me because I had never worked on an AI project before where I employed ChatGPT to perform a specialized function, such as in the case of this project, where we utilized ChatGPT's power to provide our extension's users with a simpler, more effective way of understanding code when coming across it on the web. I had no idea that AI could be used to create personalized browser extensions, which I find really interesting and now hope to expand upon with my future personal projects, as my teammates surely concur with. 
+
+Personally, I have always had a passion for learning languages and I can truly see the power in leveraging AI to create a personalized language professor that can help you reach fluency quickly and effectively and that is available 24/7. This vision is credited to this course, which really opened my eyes to the potential of AI in the language-learning field. As a matter of fact, this course has enabled me to begin working on a personal project aiming to achieve exactly that: creating a chatbot that can speak any language desired and that can teach you at anytime. I have specifically instructed my chatbot to act like a language professor and it has since been very helpful in helping me continue in my path to fluency in French and Portuguese. 
+
+This project has also allowed me to realize that... (to be continued)
+
 ## What's Next?
 **Due April 22, 11:59pm**
 
