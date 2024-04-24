@@ -69,12 +69,12 @@ To install the project, follow the steps below:
 8. The Chrome extension is now ready for you to use!
 
 To use the Chrome extension, follow the steps below:
-1. Click the Extensions tab on the top right of your browser and click the "CodeTracer" icon
-2. To verify that it works, close the popup and repeat step 1 again, you should see a Chrome side panel popping up
-3. Enter your OpenAI API key and click "Submit"
-4. Highlight any piece of code you see while on Chrome, right click on the highlighted code
-5. Under the drop-down menu, click "Generate code description"
-6. The description for your code should appear on the Chrome Side panel to your right
+1. Click the Extensions tab on the top right of your browser and click the "CodeX" icon
+3. To verify that it works, close the popup and repeat step 1 again, you should see a Chrome side panel popping up
+4. Enter your OpenAI API key and click "Submit"
+5. Highlight any piece of code you see while on Chrome, right click on the highlighted code
+6. Under the drop-down menu, click "Generate code description"
+7. The description for your code should appear on the Chrome Side panel to your right
 
 ## Self-Evaluation
 **Due April 26, 11:59pm**
