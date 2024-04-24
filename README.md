@@ -1,4 +1,4 @@
-# CodeX
+# CodeTracer
 Short description of project. Replace this and the project section below with a 1-3 sentence description of your project. 
 
 Project Notes:
@@ -57,6 +57,25 @@ Compose 2-5 metrics to determine the success of the project. These should be mea
 
 2. User Feedback of Code Analysis: Measure the extensions ability to accurately provide helpful insights and explanations for a wide variety of code snippets. After each use case, the user will be prompted to enter feedback on the effectiveness of the code summary a scale of 1-5 (A = 5, B = 4, C = 3, D = 2, F = 1).
 
+## Project Installation & Usage
+To install the project, follow the steps below:
+1. On your local terminal, enter "git clone https://github.com/intro-gen-ai/CodeX.git" to clone the project to your local environment
+2. Open the project on your favorite IDE (Or just use the cd command)
+3. Enter "npm install" to install the necessary dependencies for this project
+4. Enter "yarn build" to built the project, you should be able to see a new folder within the directory called "dist"
+5. Now, open Google Chrome and navigate to the Extensions tab on the top right of your browser and click "Manage Extensions"
+6. Enable developer mode (on the top right corener) and click "Load Unpacked" on the top left corner of Google Chrome
+7. Find the project on your local computer and select the "dist" directory within the project
+8. The Chrome extension is now ready for you to use!
+
+To use the Chrome extension, follow the steps below:
+1. Click the Extensions tab on the top right of your browser and click the "CodeTracer" icon
+3. To verify that it works, close the popup and repeat step 1 again, you should see a Chrome side panel popping up
+4. Enter your OpenAI API key and click "Submit"
+5. Highlight any piece of code you see while on Chrome, right click on the highlighted code
+6. Under the drop-down menu, click "Generate code description"
+7. The description for your code should appear on the Chrome Side panel to your right
+
 ## Self-Evaluation
 **Due April 26, 11:59pm**
 
@@ -70,6 +89,12 @@ Address each of the goals, and assess each of the metrics. Include a statement o
 500-1000 words
 
 What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
+
+This project was very eye-opening for me because I had never worked on an AI project before where I employed ChatGPT to perform a specialized function, such as in the case of this project, where we utilized ChatGPT's power to provide our extension's users with a simpler, more effective way of understanding code when coming across it on the web. I had no idea that AI could be used to create personalized browser extensions, which I find really interesting and now hope to expand upon with my future personal projects, as my teammates surely concur with. 
+
+Personally, I have always had a passion for learning languages and I can truly see the power in leveraging AI to create a personalized language professor that can help you reach fluency quickly and effectively and that is available 24/7. This vision is credited to this course, which really opened my eyes to the potential of AI in the language-learning field. As a matter of fact, this course has enabled me to begin working on a personal project aiming to achieve exactly that: creating a chatbot that can speak any language desired and that can teach you at anytime. I have specifically instructed my chatbot to act like a language professor and it has since been very helpful in helping me continue in my path to fluency in French and Portuguese. 
+
+This project has also allowed me to realize that... (to be continued)
 
 ## What's Next?
 **Due April 22, 11:59pm**
