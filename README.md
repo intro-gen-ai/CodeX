@@ -81,7 +81,15 @@ To use the Chrome extension, follow the steps below:
 
 300-1000 words
 
-Address each of the goals, and assess each of the metrics. Include a statement on each on what you achieved or did not achieve, give support for your assessments.
+In developing CodeTracer, we successfully met our main objectives, which were ambitious and essential for the tool’s effectiveness. Firstly, CodeTracer was able to accurately summarize highlighted code snippets by the user, a feature stands out as key to the product's success. This functionality provides clear and insightful explanations that help developers understand complex codebases more efficiently which enhanced code comprehension as outlined in our project goals. This feature has a very noble use-case as different developers implement different logical steps in their works. Thus, having this toll in one's tool box can make interpreting code a more accessible and faster part of the process of collaborative developing.
+
+Secondly, the integration of CodeTracer into the Google Chrome ecosystem through an extension was executed flawlessly. This seamless integration, with an easy installation process, allows users to access CodeTracer’s functionalities without disrupting their typical workflow. Meeting this objective was essential, as it ensures that our extension can become an integral part of a developer's toolkit, thus, enhancing productivity and minimizing the stresses associated with adopting new software tools.
+
+Thirdly, our extension’s ability to support a diverse range of programming languages was a critical achievement. By accommodating for various coding languages using a custom prompt call in openAI's API, CodeTracer serves a broad audience, fulfilling our goal to accomodate to a diverse group of developers and thereby broadening its utility across different coding environments and projects.
+
+In terms of assessing our project’s success through our predefined metrics, we excelled in maintaining a low error rate, achieving an 'A' grade. The current version of the tool operates without any errors or crashes, demonstrating the robustness of our coding and the reliability of the CodeTracer extension. However, one significant area where we fell short was in the implementation of a user feedback system. Due to time constraints, this crucial component of our project could not be developed within the project's timeline. This feature is vital for iterative development and enhancement of the tool based on actual user experiences. Its absence limits our capacity to evaluate and enhance the tool’s effectiveness and user satisfaction dynamically.
+
+Despite these challenges, the project's success in key areas provides a solid foundation for future enhancements and establishes the value of our solution for the tech community.
 
 ## Reflection on Learning
 **Due April 26, 11:59pm**
@@ -90,11 +98,7 @@ Address each of the goals, and assess each of the metrics. Include a statement o
 
 What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
 
-This project was very eye-opening for me because I had never worked on an AI project before where I employed ChatGPT to perform a specialized function, such as in the case of this project, where we utilized ChatGPT's power to provide our extension's users with a simpler, more effective way of understanding code when coming across it on the web. I had no idea that AI could be used to create personalized browser extensions, which I find really interesting and now hope to expand upon with my future personal projects, as my teammates surely concur with. 
 
-Personally, I have always had a passion for learning languages and I can truly see the power in leveraging AI to create a personalized language professor that can help you reach fluency quickly and effectively and that is available 24/7. This vision is credited to this course, which really opened my eyes to the potential of AI in the language-learning field. As a matter of fact, this course has enabled me to begin working on a personal project aiming to achieve exactly that: creating a chatbot that can speak any language desired and that can teach you at anytime. I have specifically instructed my chatbot to act like a language professor and it has since been very helpful in helping me continue in my path to fluency in French and Portuguese. 
-
-This project has also allowed me to realize that... (to be continued)
 
 ## What's Next?
 **Due April 22, 11:59pm**
