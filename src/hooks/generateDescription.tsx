@@ -33,6 +33,10 @@ async function generate (prompt : string) {
         model: "gpt-4",
         messages: [
             {
+                "role": "system",
+                "content": "you are a helpful software engineer who can summarize code snippets."
+            },
+            {
                 "role": "user",
                 "content": prompt
             }
