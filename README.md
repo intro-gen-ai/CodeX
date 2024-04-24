@@ -105,4 +105,6 @@ What do you take away from the project? Has this changed how you understand AI? 
 
 100-500 words
 
-Do you plan on continuing the project? What will you do with what you've learning?
+Building on the successes and lessons learned from developing CodeTracer, the next steps involve significant enhancements to refine and expand the tool's capabilities. The next step is to implement a user feedback system. This system will not only allow us to collect valuable insights on user satisfaction and tool efficacy but also help in refining the AI's code summarization capabilities based on real user experiences.
+
+Additionally, we plan to introduce customizable parameters for the code summarization process which will be inlcuded in the custom prompt. These parameters will include the programming language of the code snippet and the desired level of detail in the summary. By allowing users to specify these inputs, CodeTracer will provide more tailored and relevant content, thereby enhancing the overall user experience and tool functionality.
