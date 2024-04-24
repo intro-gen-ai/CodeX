@@ -64,7 +64,7 @@ To install the project, follow the steps below:
 3. Enter "npm install" to install the necessary dependencies for this project
 4. Enter "yarn build" to built the project, you should be able to see a new folder within the directory called "dist"
 5. Now, open Google Chrome and navigate to the Extensions tab on the top right of your browser and click "Manage Extensions"
-6. Click "Load Unpacked" on the top left corner of Google Chrome
+6. Enable developer mode (on the top right corener) and click "Load Unpacked" on the top left corner of Google Chrome
 7. Find the project on your local computer and select the "dist" directory within the project
 8. The Chrome extension is now ready for you to use!
 
