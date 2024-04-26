@@ -121,4 +121,4 @@ Building on the successes and lessons learned from developing CodeTracer, the ne
 Additionally, we plan to introduce customizable parameters for the code summarization process which will be inlcuded in the custom prompt. These parameters will include the programming language of the code snippet and the desired level of detail in the summary. By allowing users to specify these inputs, CodeTracer will provide more tailored and relevant content, thereby enhancing the overall user experience and tool functionality.
 
 ## Video Demonstration
-[Click here]() to view our demonstration
+[Click here](https://vanderbilt.zoom.us/rec/share/Yr-7uG_Y5Z9Y0KesbLIVk6lhfjXsqueLaY7z9WtrzdSOYwMj3G3OKpkpHvo8Z6R3.Tr0OBidwQIOaGjt3?startTime=1714154640000) to view our demonstration
