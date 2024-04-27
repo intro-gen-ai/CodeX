@@ -17,7 +17,7 @@ Project Notes:
 
 - Franco Lu, ji.lu@vanderbilt.edu, luj11, Co-Developer
 - Rafael Anargyrou, rafael.anargyrou@vanderbilt.edu, anargyr, Co-Developer
-- Manuel Avila, manuel.a.avila@vanderbilt.edu, avilaam, Co-Developer
+- Manuel Avila, manuel.a.avila@vanderbilt.edu, avilama, Co-Developer
 
 ## Project Proposal 
 **Due March 21, 11:59pm**
